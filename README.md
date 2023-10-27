@@ -135,10 +135,10 @@ if __name__ == "__main__":
 **Resultados**  
 _APP_  
 Bluetooth Serial Termianl 
-![](Imagenes/app.jpg)  
+![](Imageene/app.jpg)  
 
 _LED BLINK ENCENDIDO_  
-![](Imagenes/ence.jpg)   
+![](Imageene/ence.jpg)   
 
 _LED BLINK APAGADO_  
-![](Imagenes/apag.jpg)   
+![](Imageene/apag.jpg)   
