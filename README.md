@@ -134,7 +134,7 @@ if __name__ == "__main__":
 
 **Resultados**  
 _APP_  
-Bluetooth Serial Termianl 
+Bluetooth Serial Termianl  
 ![](Imageene/app.jpg)  
 
 _LED BLINK ENCENDIDO_  
